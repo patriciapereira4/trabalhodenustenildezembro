@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(155, 162, 255);
+}
+
+
+img{
+    text-align: center;
+}
+
+
+section{
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    text-align: center;
+    width: 90%;
+}
+
+section h2{
+    width: 100%;
+    font-size: 50px;
+    margin: 0;
+    color: rgb(28, 94, 94);
+}
+
+section h3{
+    margin: 0;
+    font-size: 20px;
+}
+
+.card{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 1%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.preco{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.botaosobre{
+    background: rgb(68, 0, 255);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.botaosobre:hover{
+    background: rgb(255, 0, 64);
+}
+    
